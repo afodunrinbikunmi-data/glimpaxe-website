@@ -2,7 +2,7 @@
 
 A focused, single-section hero landing page built for **Glimpaxe Momento**, a Lagos-based business specializing in premium, customized event souvenirs and corporate gifts.
 
-🔗 Live site: afodunrinbikunmi-data.github.io/glimpaxe-website
+🔗 [Live site](https://afodunrinbikunmi-data.github.io/glimpaxe-website): afodunrinbikunmi-data.github.io/glimpaxe-website
 
 # About the project
 
