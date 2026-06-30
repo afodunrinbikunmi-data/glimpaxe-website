@@ -1,6 +1,6 @@
 # Glimpaxe Momento — Hero Landing Page
 
-A focused, single-section hero landing page built for Glimpaxe Momento, a Lagos-based business specializing in premium, customized event souvenirs and corporate gifts.
+A focused, single-section hero landing page built for **Glimpaxe Momento**, a Lagos-based business specializing in premium, customized event souvenirs and corporate gifts.
 
 🔗 Live site: afodunrinbikunmi-data.github.io/glimpaxe-website
 
